@@ -1,6 +1,9 @@
 package Actividad1;
 //fran vigueras
 //modificación desde github
+
+
+//modificación 2 compañero 2
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
 	       for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
